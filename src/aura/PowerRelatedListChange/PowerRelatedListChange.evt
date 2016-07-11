@@ -1,0 +1,5 @@
+<aura:event type="APPLICATION" description="for Power Related List" >
+    <aura:attribute name="recordId" type="string"/>
+    <aura:attribute name="Field" type="string"/>
+    <aura:attribute name="newValue" type="decimal"/>
+</aura:event>
